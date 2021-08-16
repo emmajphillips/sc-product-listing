@@ -1,0 +1,14 @@
+.column {
+  width: 60vw;
+  max-width: 600px;
+  margin: 0 auto;
+
+  .product-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .product-card {
+    width: 33%;
+
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "100": {
+    "title": "Product1",
+    "size": "M",
+    "price": 100
+  },
+  "101": {
+    "title": "Product2",
+    "size": "M",
+    "price": 200
+  },
+  "1032": {
+    "title": "Product3",
+    "size": "S",
+    "price": 300
+  },
+  "103": {
+    "title": "Product4",
+    "size": "L",
+    "price": 400
+  },
+  "104": {
+    "title": "Product5",
+    "size": "S",
+    "price": 900
+  },
+  "105": {
+    "title": "Product6",
+    "size": "M",
+    "price": 600
+  },
+  "106": {
+    "title": "Product7",
+    "size": "M",
+    "price": 700
+  },
+  "107": {
+    "title": "Product8",
+    "size": "L",
+    "price": 210
+  },
+  "108": {
+    "title": "Product9",
+    "size": "L",
+    "price": 900
+  },
+  "109": {
+    "title": "Product10",
+    "size": "M",
+    "price": 1000
+  }
+}
